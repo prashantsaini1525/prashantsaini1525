@@ -23,12 +23,12 @@
 </div>
 
 <!-- Introduction Section -->
-<div align="center" style="margin: 20px auto; max-width: 800px; padding: 0 10px;">
-  <h2>🙋‍♂️ About Me</h2>
-  <p>
+<div style="margin: 20px auto; max-width: 800px; padding: 0 10px;">
+  <h2 style="text-align: center;">🙋‍♂️ About Me</h2>
+  <p style="text-align: left;">
     Hey there! I'm Prashant Saini, a passionate full-stack developer from Aligarh, Uttar Pradesh. I love exploring new technologies and building innovative projects. Over the years, I've built a variety of projects (feel free to check out my <a href="https://github.com/prashantsaini1525?tab=repositories" target="_blank">repositories</a>) and I'm constantly evolving as a developer.
   </p>
-  <ul style="text-align: left; display: inline-block; margin-top: 10px;">
+  <ul style="text-align: left; margin-top: 10px;">
     <li>🌟 <strong>Who I Am:</strong> A curious and driven developer who thrives on challenges and continuous learning.</li>
     <li>📍 <strong>Based in:</strong> Aligarh, Uttar Pradesh</li>
     <li>🎓 <strong>My Education:</strong> I earned my B.Tech in Information Technology from Dr. A.P.J. Abdul Kalam Technical University in July 2024 with a CGPA of 7.8.</li>
@@ -41,6 +41,7 @@
     <li>🙏 <strong>Thank You:</strong> I appreciate you taking the time to learn about me. I'm excited to connect, collaborate, and create something amazing together!</li>
   </ul>
 </div>
+
 
 <!-- Improved Social Icons Section -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
