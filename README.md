@@ -22,38 +22,43 @@
   </p>
 </div>
 
-<!-- Social Connections & Animated GIF -->
+<!-- Improved Social Icons Section -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <!-- Social Connections -->
+  <!-- Professional Connections -->
   <div style="flex: 1; min-width: 300px;">
     <h3 style="color:#444;">Professional Connections</h3>
-    <p>
-      <a href="https://github.com/prashantsaini1525" title="GitHub" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
+      <a href="https://github.com/prashantsaini1525" title="GitHub" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" style="border-radius: 8px;"/>
       </a>
-      <a href="https://www.linkedin.com/in/prashantssaini/" title="LinkedIn" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+      <a href="https://www.linkedin.com/in/prashantssaini/" title="LinkedIn" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="border-radius: 8px;"/>
       </a>
-      <a href="https://x.com/Prashan58889893" title="Twitter" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-Connect-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
+      <a href="https://x.com/Prashan58889893" title="Twitter" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" style="border-radius: 8px;"/>
       </a>
-      <a href="https://prashant-pi.vercel.app" title="Portfolio" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel" alt="Portfolio" />
+      <a href="https://prashant-pi.vercel.app" title="Portfolio" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" alt="Portfolio" style="border-radius: 8px;"/>
       </a>
-    </p>
-    <h3 style="color:#444; margin-top:20px;">Personal Connections</h3>
-    <p>
-      <a href="https://www.facebook.com/prashant.saini.31508076/" title="Facebook" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook" alt="Facebook" />
-      </a>
-      <a href="https://www.snapchat.com/add/prashantsain_i" title="Snapchat" target="_blank">
-        <img src="https://img.shields.io/badge/Snapchat-Connect-FFFC00?style=for-the-badge&logo=snapchat" alt="Snapchat" />
-      </a>
-      <a href="https://instagram.com/prashant_saini_1525" title="Instagram" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
-      </a>
-    </p>
+    </div>
   </div>
+  <!-- Personal Connections -->
+  <div style="flex: 1; min-width: 300px;">
+    <h3 style="color:#444;">Personal Connections</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
+      <a href="https://www.facebook.com/prashant.saini.31508076/" title="Facebook" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" alt="Facebook" style="border-radius: 8px;"/>
+      </a>
+      <a href="https://instagram.com/prashant_saini_1525" title="Instagram" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" style="border-radius: 8px;"/>
+      </a>
+      <a href="https://www.snapchat.com/add/prashantsain_i" title="Snapchat" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat" alt="Snapchat" style="border-radius: 8px;"/>
+      </a>
+    </div>
+  </div>
+</div>
+
 
 <!-- Animated GIF -->
   <div align="center" style="margin: 20px 0;">
@@ -70,7 +75,7 @@
   <!-- Top Languages -->
   <p align="center" style="margin: 20px 0;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsaini1525&theme=tokyonight&layout=compact&langs_count=8" width="47%" alt="Top Languages" />
-  </p> 
+  </p>
 
   <!-- Repositories and Stars -->
   <p align="center" style="margin: 20px 0;">
@@ -82,16 +87,19 @@
     </a>
   </p>
   
-  <!-- Top Contributed Repo -->
-  <p align="center" style="margin-top: 40px;">
-    <strong>🔝 Top Contributed Repo</strong>
-  </p>
+  <!-- Divider for Top Contributed Repo -->
+  <!-- <hr style="margin: 40px 0;"/> -->
+  <!-- Top Contributed Repo Heading -->
+  <h2 align="center">🔝 Top Contributed Repo</h2>
   <p align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=prashantsaini1525&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
   </p>
   
-  <!-- GitHub Trophies -->
-  <p align="center" style="margin-top: 40px;">
+  <!-- Divider for GitHub Trophies -->
+  <!-- <hr style="margin: 40px 0;"/> -->
+  <!-- GitHub Trophies Heading -->
+  <h2 align="center">🏆 GitHub Trophies</h2>
+  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=prashantsaini1525&theme=tokyonight&row=1" alt="GitHub Trophies" />
   </p>
   
@@ -175,8 +183,10 @@
   </div>
 
 ---
+
 <!-- Code snippet / Fun Quote -->
-``` java
+
+```java
 if (creativeEnergy > 0) {
     while (ideas < genius) {
         ideas++;
@@ -187,7 +197,3 @@ if (creativeEnergy > 0) {
 }
 
 ```
-
-
-
-
