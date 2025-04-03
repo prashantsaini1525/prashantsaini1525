@@ -24,7 +24,7 @@
 
 <!-- Introduction Section -->
 <div style="margin: 20px auto; max-width: 800px; padding: 0 10px;">
-  <h2 style="text-align: center;">🙋‍♂️ About Me</h2>
+  <h2 align="center">🙋‍♂️ About Me</h2>
   
   <!-- Horizontal Profile Image -->
   <img 
