@@ -25,6 +25,14 @@
 <!-- Introduction Section -->
 <div style="margin: 20px auto; max-width: 800px; padding: 0 10px;">
   <h2 style="text-align: center;">🙋‍♂️ About Me</h2>
+  
+  <!-- Horizontal Profile Image -->
+  <img 
+    src="./assets/images/GDG.png" 
+    alt="My Profile Image" 
+    style="display: block; width: 100%; height: auto; margin: 20px 0;"
+  />
+  
   <p style="text-align: left;">
     Hey there! I'm Prashant Saini, a passionate full-stack developer from Aligarh, Uttar Pradesh. I love exploring new technologies and building innovative projects. Over the years, I've built a variety of projects (feel free to check out my <a href="https://github.com/prashantsaini1525?tab=repositories" target="_blank">repositories</a>) and I'm constantly evolving as a developer.
   </p>
@@ -41,7 +49,6 @@
     <li>🙏 <strong>Thank You:</strong> I appreciate you taking the time to learn about me. I'm excited to connect, collaborate, and create something amazing together!</li>
   </ul>
 </div>
-
 
 <!-- Improved Social Icons Section -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
