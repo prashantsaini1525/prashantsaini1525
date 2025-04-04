@@ -129,12 +129,17 @@
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=prashantsaini1525&theme=tokyonight&row=1" alt="GitHub Trophies" />
   </p>
-  
+</div>
+
+<!-- Random Dev Quote Section (Aligned with Other Sections) -->
+<div align="center" style="margin: 20px 0;">
+  <h2>✍️ Random Dev Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
 <!-- Tech Stack -->
 <div align="center" style="margin: 40px 0;">
-  <h2>Tech Stack</h2>
+  <h3>Tech Stack</h3>
   <div style="overflow-x: auto;">
     <table style="border-collapse: collapse; margin: 0 auto;">
       <!-- Row 1 -->
