@@ -39,7 +39,7 @@
   <ul style="text-align: left; margin-top: 10px;">
     <li>🌟 <strong>Who I Am:</strong> A curious and driven developer who thrives on challenges and continuous learning.</li>
     <li>📍 <strong>Based in:</strong> Aligarh, Uttar Pradesh</li>
-    <li>🎓 <strong>My Education:</strong> I earned my B.Tech in Information Technology from Dr. A.P.J. Abdul Kalam Technical University in July 2024 with a CGPA of 7.8.</li>
+    <li>🎓 <strong>My Education:</strong> I earned my B.Tech in Information Technology from Dr. A.P.J. Abdul Kalam Technical University in July 2024 with a CGPA of 8.1</li>
     <li>💡 <strong>Current Focus:</strong> Sharpening my coding skills by diving deep into Java DSA while building full-stack projects using JavaScript, HTML, CSS, Node.js, and MongoDB.</li>
     <li>🚀 <strong>Projects I Love:</strong> From a library management system and an educational website to a heart disease prediction model using machine learning – I enjoy turning ideas into functional solutions.</li>
     <li>🔧 <strong>Project Highlights:</strong> Recent projects like <strong>Learniverse</strong> and a cutting-edge <strong>Real Time Tracker</strong> showcase my versatility and commitment to innovative problem-solving.</li>
